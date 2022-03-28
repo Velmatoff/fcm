@@ -36,6 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   firebase_core: ^1.13.1
   firebase_messaging: ^11.2.11
+  background_fetch: ^1.0.3
+  http: ^0.13.4
 
 
 dev_dependencies:
